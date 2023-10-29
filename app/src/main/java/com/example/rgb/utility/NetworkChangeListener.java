@@ -51,6 +51,7 @@ public class NetworkChangeListener extends BroadcastReceiver {
                             onReceive(context, intent);
                         }
                     });
+
                 }
             }
         };
